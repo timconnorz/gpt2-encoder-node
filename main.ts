@@ -8,5 +8,3 @@ export async function getEncoded(str: string) {
     const encoded = await tokenizer.encode(str);
     return encoded;
 }
-
-getEncoded('hello there little boy').then((data) => console.log(data.length));
