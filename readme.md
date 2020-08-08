@@ -1,4 +1,4 @@
-Basic Usage
+# Basic Usage
 
 const encoded = await getEncoded('Some string');
 
@@ -13,5 +13,5 @@ console.log(encoded.typeIds);
 console.log(encoded.wordIndexes);
 
 
-Created 8-7-2020
-tw: @itstimconnors
+*Created 8-7-2020*
+*tw: @itstimconnors*
